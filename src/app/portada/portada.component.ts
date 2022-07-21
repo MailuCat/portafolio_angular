@@ -9,6 +9,8 @@ export class PortadaComponent{
 
   constructor() { }
 
-  
+  ngOnInit(): void {
+     
+  }
 
 }

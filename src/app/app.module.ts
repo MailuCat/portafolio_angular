@@ -6,12 +6,11 @@ import { BarraComponent } from './barra/barra.component';
 import { MistrabajosComponent } from './mistrabajos/mistrabajos.component';
 import { ContactoComponent } from './contacto/contacto.component';
 import { FooterComponent } from './footer/footer.component';
-import { PortadaComponent } from './portada/portada.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
-    PortadaComponent,
     BarraComponent,
     MistrabajosComponent,
     ContactoComponent,
