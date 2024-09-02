@@ -15,7 +15,7 @@ export class MistrabajosComponent implements OnInit {
       titulo: "Efecto Mariposa",
       imagen: "../assets/foto_efecto.jpg",
       descripcion: "El diseño se realizó con el framework Vuetify y CSS. El buscador está asociado a la API de Algolia cuya funcionalidad está basada en JavaScript. Tiene una estructura en HTML.",
-      enlace: "https://www.efectomariposa.org/"
+      enlace: "https://www.efecto-mariposa.cl"
     },
     {
       titulo: "Portafolio",
